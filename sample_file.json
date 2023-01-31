@@ -3,20 +3,20 @@
   "reporting_entity_type": "medicare",
   "plan_name": "medicaid",
   "plan_id_type": "hios",
-  "plan_id": "1111111111",
+  "plan_id": "8888888888",
   "plan_market_type": "individual",
   "last_updated_on": "2020-08-27",
   "version": "1.0.0",
   "provider_references":[{
     "provider_group_id": 1,
     "provider_groups": [{
-      "npi": [1111111111, 2222222222, 3333333333, 4444444444, 5555555555],
+      "npi": [8888888888, 2222222222, 3333333333, 4444444444, 5555555555],
       "tin":{
         "type": "ein",
         "value": "11-1111111"
       }
     },{
-      "npi": [1111111111, 2222222222, 3333333333, 4444444444, 5555555555],
+      "npi": [8888888888, 2222222222, 3333333333, 4444444444, 5555555555],
       "tin":{
         "type": "ein",
         "value": "22-2222222"
@@ -35,13 +35,13 @@
     "description": "Arthroplasty, knee condyle and plateau, medial and lateral compartments",
     "negotiated_rates": [{
       "provider_groups": [{
-        "npi": [1111111111, 2222222222, 3333333333, 4444444444, 5555555555],
+        "npi": [8888888888, 2222222222, 3333333333, 4444444444, 5555555555],
         "tin":{
           "type": "ein",
           "value": "11-1111111"
         }
       },{
-        "npi": [1111111111, 2222222222, 3333333333, 4444444444, 5555555555],
+        "npi": [8888888888, 2222222222, 3333333333, 4444444444, 5555555555],
         "tin":{
           "type": "ein",
           "value": "22-2222222"
@@ -89,8 +89,8 @@
         "negotiated_type": "negotiated",
         "negotiated_rate": 12003.45,
         "expiration_date": "2022-01-01",
-        "service_code": ["CSTM-00"],
-        "billing_class": "professional"
+        "service_code": ["ravi-00"],
+        "billing_class": "analyst"
       }]
     },{
       "provider_groups": [{
