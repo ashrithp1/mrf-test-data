@@ -1,0 +1,65 @@
+location-name: Alton Memorial Hospital
+source-page-url: https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure 
+mrf-url: https://content.bjc.org/sites/g/files/vbfdhc141/files/2023-12/370661172_AltonMemorialHospital_standardcharges.zip
+contact-name: Timothy Bushur
+contact-email: Timothy.Bushur@bjc.org
+
+location-name: Barnes Jewish Hospital
+source-page-url: https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure 
+mrf-url: https://content.bjc.org/sites/g/files/vbfdhc141/files/2023-12/237309937_Barnes-JewishHospital_standardcharges.zip
+contact-name: Timothy Bushur
+contact-email: Timothy.Bushur@bjc.org
+
+location-name: Barnes Jewish St. Peters Hospital
+source-page-url: https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure 
+mrf-url: https://content.bjc.org/sites/g/files/vbfdhc141/files/2023-07/431452426_Barnes-JewishStPetersHospital_standardcharges.zip
+contact-name: Timothy Bushur
+contact-email: Timothy.Bushur@bjc.org
+
+location-name: Barnes Jewish West County Hospital
+source-page-url: https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure 
+mrf-url: https://content.bjc.org/sites/g/files/vbfdhc141/files/2023-12/431527130_Barnes-JewishWestCountyHospital_standardcharges.zip
+contact-name: Timothy Bushur
+contact-email: Timothy.Bushur@bjc.org
+
+location-name: Christian Hospital
+source-page-url: https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure 
+mrf-url: https://content.bjc.org/sites/g/files/vbfdhc141/files/2023-12/436057893_ChristianHospital_standardcharges.zip
+contact-name: Timothy Bushur
+contact-email: Timothy.Bushur@bjc.org
+
+location-name: Memorial Hospital
+source-page-url: https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure 
+mrf-url: https://content.bjc.org/sites/g/files/vbfdhc141/files/2023-12/370635502_MemorialHospital_standardcharges.zip
+contact-name: Timothy Bushur
+contact-email: Timothy.Bushur@bjc.org
+
+location-name: Missouri Baptist Medical Center
+source-page-url: https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure 
+mrf-url: https://content.bjc.org/sites/g/files/vbfdhc141/files/2023-12/430652656_MissouriBaptistMedicalCenter_standardcharges.zip
+contact-name: Timothy Bushur
+contact-email: Timothy.Bushur@bjc.org
+
+location-name: Missouri Baptist Sullivan Hospital
+source-page-url: https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure 
+mrf-url: https://content.bjc.org/sites/g/files/vbfdhc141/files/2023-12/431459495_MissouriBaptistSullivanHospital_standardcharges.zip
+contact-name: Timothy Bushur
+contact-email: Timothy.Bushur@bjc.org
+
+location-name: Parkland Health Center
+source-page-url: https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure 
+mrf-url: https://content.bjc.org/sites/g/files/vbfdhc141/files/2023-12/431332368_ParklandHealthCenter_standardcharges.zip
+contact-name: Timothy Bushur
+contact-email: Timothy.Bushur@bjc.org
+
+location-name: Progress West Hospital
+source-page-url: https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure 
+mrf-url: https://content.bjc.org/sites/g/files/vbfdhc141/files/2023-12/412140764_ProgressWestHospital_standardcharges.zip
+contact-name: Timothy Bushur
+contact-email: Timothy.Bushur@bjc.org
+
+location-name: St. Louis Childrens Hospital
+source-page-url: https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure 
+mrf-url: https://content.bjc.org/sites/g/files/vbfdhc141/files/2023-12/430654870_StLouisChildrensHospital_standardcharges.zip
+contact-name: Timothy Bushur
+contact-email: Timothy.Bushur@bjc.org
