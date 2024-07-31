@@ -1,5 +1,5 @@
 {
-  "reporting_entity_name": "medicare",
+  "reporting_entity_name": "medicare_test",
   "reporting_entity_type": "medicare",
   "plan_name": "medicaid",
   "plan_id_type": "hios",
