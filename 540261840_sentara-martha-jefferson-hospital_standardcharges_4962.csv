@@ -6,3 +6,7 @@ FUNDUS PHOTOS,10400020,CDM,920,RC,92250,MS-DRG,facility,both,,,,900,156.5,Platfo
 CORNEAL TOPOGRA MAPPING,10400106,CDM,920,RC,92025,CPT,facility,both,,,,900,165,Region Health Insurance,,,80,,,percent of total billed charges,,,,
 CHGL DRAW FEE - HEEL STICK,15300100,CDM,300,RC,36416,RC,facility,both,,,,900,17.5,Platform Health Insurance,,,0.8,,,percent of total billed charges,,,,
 CHGL SICKLE CELL PREP,20100001,CDM,300,RC,85660,NDC,facility,both,,,,900,29.5,Region Health Insurance,,,8000,,,percent of total billed charges,,,,
+INTERMEDIATE EYE EXAM,10400003,CDM,510,RC,920,MS-DRG,facility,both,,,,1000,152.5,Platform Health Insurance,,600,60,,,percent of total billed charges,,,,
+QUANT PERIMETR GVF/HVF UNI/BIL,10400007,CDM,510,RC,800,MS-DRG,facility,both,,,,1000,167.5,Region Health Insurance,,,60,,,percent of total billed charges,,,,
+STATIC/KINETIC HVF UNI/BIL,10400008,CDM,510,RC,560,MS-DRG,facility,both,,,,1000,163,Platform Health Insurance,,,0.6,,,percent of total billed charges,,,,
+FLUORESCEIN ANGIOGRAPHY,10400015,CDM,920,RC,92235,HCPCS,facility,both,,,,1000,336.5,Region Health Insurance,,,6000,,,percent of total billed charges,,,,
