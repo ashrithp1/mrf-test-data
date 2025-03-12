@@ -20,10 +20,10 @@
   },
   "standard_charge_information": [
     {
-      "description": "Major hip and knee joint replacement or reattachment of lower extremity without mcc",
+      "description": " Major hip and knee joint replacement or reattachment of lower extremity without mcc need to test for regression ",
       "code_information": [
         {
-          "code": "470",
+          "code": " 5913regtest ",
           "type": "MS-DRG"
         },
         {
